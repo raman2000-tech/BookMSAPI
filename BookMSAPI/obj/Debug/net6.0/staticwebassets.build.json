@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "yuDSMQB61lBBhPDEDrX79XMw6ldWv+5PUllWOQUDdik=",
+  "Source": "BookMSAPI",
+  "BasePath": "_content/BookMSAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
